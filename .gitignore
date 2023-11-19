@@ -1,0 +1,6 @@
+# adding files to this file will make sure they do not get added into the git repo
+# this is useful for files that contain sensitive information
+# for example, the accessKeys.csv file contains the access keys for the admin user
+# this file should NOT NOT NOT be added to the git repo, EVER
+# I made this rookie mistake :) don't do it too :D 
+ginomain_accessKeys.csv
