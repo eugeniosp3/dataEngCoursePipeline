@@ -4,3 +4,6 @@
 # this file should NOT NOT NOT be added to the git repo, EVER
 # I made this rookie mistake :) don't do it too :D 
 ginomain_accessKeys.csv
+keys.py
+
+# if you did this correctly the file will show as greyed out in the git gui
